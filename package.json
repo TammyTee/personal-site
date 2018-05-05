@@ -1,0 +1,25 @@
+{
+  "name": "personal-site",
+  "version": "0.1.0",
+  "description": "Personal website for Tammy Robinson.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp",
+    "dev": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TammyTee/personal-site.git"
+  },
+  "author": "Tammy Robinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TammyTee/personal-site/issues"
+  },
+  "homepage": "https://github.com/TammyTee/personal-site#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "require-dir": "^1.0.0"
+  }
+}
